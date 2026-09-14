@@ -41,8 +41,10 @@ This dashboard explores Netflix's content library to surface trends in what gets
 
 ## 📸 Preview
 
-<!-- Add a screenshot here, e.g.: -->
-<!-- ![Dashboard preview](screenshots/overview.png) -->
+<img width="1237" height="743" alt="Screenshot 2026-09-14 073145" src="https://github.com/user-attachments/assets/ba54ac09-703f-46d6-b5d8-bef0099ce32b" />
+
+<img width="1237" height="741" alt="Screenshot 2026-09-14 073044" src="https://github.com/user-attachments/assets/51c58d76-ac05-4203-a85b-e0153442bb50" />
+
 
 ## 📁 Data Source
 
